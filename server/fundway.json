@@ -1,0 +1,278 @@
+{
+    "search": [
+        {
+            "albumId": 11,
+            "names": "bussiness",
+            "id": 1,
+            "title": "The Small World",
+            "description": "Please help raise $40,000 to support 40 girls from rural villages of Nepal with housing and education support each year.Please Support Needy People",
+            "poster": "https://bit.ly/3F7wbZp",
+            "value": 20
+        },
+        {
+            "albumId": 12,
+            "id": 2,
+            "names": "sales",
+            "title": "Origin Learning Fund",
+            "description": "Please help Origin Learning fundraise $50,000 to empower indigenous and migrant young women through tailored quality digital education in La Guajira, Colombia.",
+            "poster": "https://bit.ly/3h6xM8b",
+            "value": 20,
+            "link": "/floods"
+        },
+        {
+            "albumId": 13,
+            "names": "bussiness",
+            "id": 3,
+            "title": "Donation For Flood In Pakistan",
+            "description": "The number of damaged and destroyed houses now exceeds 2 million. Around 23,900 schools, 1,460 health facilities and 13,000 km of roads have also reportedly been damaged. ",
+            "poster": "https://bit.ly/3fylBjZ",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 14,
+            "names": "bussiness",
+            "id": 4,
+            "title": "Dhammajarinee Witthaya School",
+            "description": "Please help us raise $50,000 to purchase 205 laptops for the 410 girls in grades 7-9 to learn STEM and English at the Dhammajarinee Witthaya School.",
+            "poster": "https://bit.ly/3U5mFLk",
+            "value": 30,
+            "link": "/floods"
+        },
+        {
+            "albumId": 15,
+            "names": "sales",
+            "id": 5,
+            "title": "Women's Resource Center",
+            "description": "Help us educate girls in Siem Reap, Cambodia about their sexual and reproductive rights and empower them to make educated choices!",
+            "poster": "https://bit.ly/3SZyalZ",
+            "value": 85,
+            "link": "/floods"
+        },
+        {
+            "albumId": 16,
+            "names": "sales",
+            "id": 6,
+            "title": "Girl Move",
+            "description": "Help Girl Move raise $50,000.00 to help girls in Mozambique to recover learning loss due to setbacks from the COVID-19 pandemic..Please Support Needy People",
+            "poster": "https://bit.ly/3WuHp0D",
+            "value": 50,
+            "link": "/floods"
+        },
+        {
+            "albumId": 17,
+            "names": "poor",
+            "id": 1,
+            "title": "Homeless",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "poster": "https://bit.ly/3Ed7vhf",
+            "value": 20,
+            "link": "/floods"
+        },
+        {
+            "albumId": 18,
+            "names": "poor",
+            "id": 2,
+            "title": "Sickness",
+            "description": "Due To The OutBreak Of Water Troughout The Areas Affected By Flood, Water Has Been Aging Over The Old Dirty Water, Causing Malaria and Other Health Hazards.",
+            "poster": "https://bit.ly/3FXTxkF",
+            "value": 20,
+            "link": "/floods"
+        },
+        {
+            "albumId": 19,
+            "names": "poor",
+            "id": 3,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3tadWvl",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 20,
+            "names": "cancer",
+            "id": 1,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3HIHp8l",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 21,
+            "names": "cancer",
+            "id": 2,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3Px6e9a",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 22,
+            "names": "cancer",
+            "id": 3,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3uSAgKM",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 23,
+            "names": "cancer",
+            "id": 4,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3j6gN6T",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 24,
+            "names": "cancer",
+            "id": 5,
+            "title": "sickness of health",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3W2fi88",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 25,
+            "names": "cancer",
+            "id": 6,
+            "title": "Cemotherapy",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3WoFeuJ",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 23,
+            "names": "cancer",
+            "id": 4,
+            "title": "Mental Trauma",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3j6gN6T",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 24,
+            "names": "cancer",
+            "id": 5,
+            "title": "sickness of health",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3W2fi88",
+            "value": 40,
+            "link": "/floods"
+        },
+        {
+            "albumId": 25,
+            "names": "cancer",
+            "id": 6,
+            "title": "Cemotherapy",
+            "description": "Many Have Been Left Homeless, Starving, Depressed & Mentally Challanged. Unfortunately, No One Is There To Help Them Regarding Mental Health. Be The Help.",
+            "poster": "https://bit.ly/3WoFeuJ",
+            "value": 40,
+            "link": "/floods"
+        }
+    ],
+    "Recived_Dollar": [
+        {
+            "dollar": "30000$",
+            "project": "Project Dollar"
+        },
+        {
+            "dollar": "45000$",
+            "project": "Project Found"
+        },
+        {
+            "dollar": "35000$",
+            "project": " Pledgar"
+        }
+    ],
+    "Fund": [
+        {
+            "title": "People Donate",
+            "donate": "14,607"
+        },
+        {
+            "title": "Progress",
+            "donate": "14,607"
+        },
+        {
+            "title": "Money raised so far",
+            "donate": "14,607"
+        }
+    ],
+    "Project": [
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"75",
+            "fund":"3.4 ETH FUNDED"
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"20",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"10",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"60",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"30",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"90",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"40",
+            "fund":"3.4 ETH FUNDED"
+
+        },
+        {
+            "title": "Ramdan Food Packages",
+            "description": " In 2022, Hundreds Of Thousands Of Peoples In Pakisan Lost Their Home Due To The Devestating Floods. And Hava Lost Everythings Their House.  ",
+            "btn": "Donate",
+            "value":"70",
+            "fund":"3.4 ETH FUNDED"
+
+        }
+    ],
+    "Response": "True",
+    "Total": "250"
+}
