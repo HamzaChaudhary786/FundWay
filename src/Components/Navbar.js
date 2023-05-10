@@ -6,6 +6,7 @@ import { useGlobalContext } from './Context'
 import Suggestion_Box from './Suggestion_Box'
 import FundRaise from './FundRaise'
 import Donate from './Donate'
+import gift from "../Assets/gift.gif"
 const Navbar = () => {
 
 
@@ -23,7 +24,7 @@ const Navbar = () => {
             name: "Ways to Fundraise", link: "/waytofundraise",
         },
         {
-            name: "Tips and Tools", link: "/tips"
+            name: "Tips and Tools", link: "/tipsandtools"
         },
 
 
@@ -62,12 +63,12 @@ const Navbar = () => {
 
 
 
-                <ul className={`  md:flex md:justify-items-center md:items-center transition-all duration-700  absolute md:static md:h-16 md:w-auto w-80 h-80 pl-6  md:pl-0  bg-red-900    ease-in ${open ? 'justify-start top-[2px] opacity-100' : 'right-[790px] top-[2px]'} md:bg-opacity-0 `}>
+                <ul className={`grid items-center md:flex md:justify-items-center md:items-center transition-all duration-700  ease-in-out absolute md:static md:h-16 md:w-auto w-80    md:pl-0  bg-red-900 h-screen ${open ? 'top-[2px] right-[165px] opacity-100 ease-in-out' : 'top-[-850px] right-[165px] ease-in-out duration-1000 transition-all '}  md:bg-opacity-0 `}>
                     {
                         Links.map((item) => {
                             return (
                                 <>
-                                    <li key={item.name} className="text-center text-lg w-fit h-fit font-sans group md:p-1  md:ml-0 mt-2 md:mt-0    ">
+                                    <li key={item.name} className="text-center text-lg w-fit h-fit font-sans group md:p-1  md:ml-0 mt-2 md:mt-0 pl-6    ">
                                         <Link to={item.link} className='text-white  md:text-base lg:p-2   lg:text-lg   '>
                                             {item.name}
 
@@ -77,14 +78,19 @@ const Navbar = () => {
 
                                     </li>
 
+
                                 </>
                             )
                         })
                     }
 
-                    <div>
+                    <div className=' pl-6 md:pl-0'>
                         <FundRaise>FUNDRAISE</FundRaise>
                         <Donate>DONATE</Donate>
+                    </div>
+                    <div className=' grid justify-items-center items-center  md:hidden'>
+                        <img src={gift} />
+
                     </div>
 
 

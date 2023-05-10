@@ -57,17 +57,17 @@ const HeroSection = () => {
                             Fundraise Target 10 ETH
                         </div>
                     </div>
-                    <div className='grid grid-cols-3 justify-items-center text-center h-32 w-[90%] bg-lred  rounded '>
+                    <div className='grid md:grid-cols-3 grid-cols-3 justify-items-center text-center h-auto w-[98%] md:w-[96%] lg:w-[90%] bg-lred  rounded '>
                         {
                             fundy.map((item) => {
                                 return (
                                     <>
-                                        <div className=' w-[100%] grid justify-items-center font-sans p-3  '>
-                                            <h1 className=' text-center text-xl font-bold font-sans text-lorange
+                                        <div className=' w-[100%]  grid justify-items-center font-sans p-3  '>
+                                            <h1 className=' text-center text-lg md:text-lg lg:text-xl font-bold font-sans text-lorange
                                             '>{item.title}</h1>
                                             <span className=' flex mt-2'>
-                                                <img src={charity} className=' h-16 w-16' />
-                                                <strong className=' text-white ml-2 text-5xl font-sans font-bold'>{item.donate}</strong>
+                                                <img src={charity} className='h-10 w-10 md:h-12 md:w-12 lg:h-16 lg:w-16' />
+                                                <strong className=' text-white ml-2 text-2xl md:text-4xl lg:text-5xl font-sans font-bold'>{item.donate}</strong>
                                             </span>
                                         </div>
                                     </>
