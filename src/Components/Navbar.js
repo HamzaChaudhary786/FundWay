@@ -42,7 +42,7 @@ const Navbar = () => {
     return (
         <>
 
-            <div className=' w-[100%] h-24 top-0   left-0  flex items-center      md:p-2    md:justify-between    '>
+            <div className=' w-[100%] h-24 top-0    left-0  flex items-center      md:p-2    md:justify-between    '>
 
 
                 <div className=' h-auto w-auto  cursor-pointer  grid sm:justify-items-center sm:justify-center '>

@@ -8,6 +8,9 @@ import About from './Pages/About'
 import Hamza from './Pages/Hamza';
 import Way_To_Fundraise from './Pages/Way_To_Fundraise';
 import TipsAndTool from './Pages/TipsAndTool';
+import Search from './Pages/Search';
+import Login from './Pages/Login';
+import Signup from './Pages/Signup';
 function App() {
   return (
     <>
@@ -16,6 +19,10 @@ function App() {
         <Route path='/developer' element={<Developer />} />
         <Route path='/waytofundraise' element={<Way_To_Fundraise />} />
         <Route path='/tipsandtools' element={<TipsAndTool />} />
+        <Route path='/search' element={<Search />} />
+        <Route path='/signin' element={<Login />} />
+        <Route path='/signup' element={<Signup />} />
+
         <Route path='/about' element={<About />} />
         <Route path='/hamza' element={<Hamza />} />
 
